@@ -17,7 +17,7 @@
 
 ### Links
 
-- Solution URL: [View the source code.](https://github.com/jidoG8/FOUR-CARD-FEATURE-DESIGN.git)
+- Solution URL: [View the source code.](https://github.com/jidoG8/COUNT-THINGS.git)
 - Live Site URL: [Checkout the live preview.](https://jidog8.github.io/FOUR-CARD-FEATURE-DESIGN/)
 
 ## My process
